@@ -35,7 +35,7 @@ module.exports = {
             bio,
             avatar
         })
-        return res.json(response.data);
+        return res.json(dev);
 
     }
 };
